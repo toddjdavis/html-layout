@@ -1,0 +1,35 @@
+.top{
+    height: 10vh;
+    background-color: lightgrey;
+}
+.box {
+    background-color: blueviolet;
+    height: 6vh;
+    width: 6vh;
+    display: inline-block;
+    margin: 6px;
+}
+
+.middle {
+    height: 30vh;
+}
+.middle h1 {
+    text-align: center;
+    color: gray;
+}
+.blue {
+    height: 15vh;
+    background-color: cornflowerblue;
+}
+.teal {
+    height: 15vh;
+    background-color: teal;
+}
+.barf {
+    height: 15vh;
+    background-color: greenyellow;
+}
+.yellow {
+    height: 15vh;
+    background-color: yellow;
+}
